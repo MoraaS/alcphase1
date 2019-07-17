@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstPhase</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_alc">AboutALCActivity</string>
+    <string name="text_welcome_alc">Welcome To ALC 4.0!</string>
+    <string name="btn_about_alc">ABOUT ALC</string>
+    <string name="btn_profile">MY PROFILE</string>
+    <string name="title_activity_profile">My Profile</string>
+</resources>
